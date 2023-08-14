@@ -6,16 +6,16 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: 'HI!欢迎来到我的博客', url: 'https://www.yifeng07.com/' },
-    { title: '如需帮助可以给我留言哈，访问文档中心获取更多帮助', url: 'https://www.yifeng07.com/' }
+    { title: '如需帮助可以给我留言哈', url: 'https://www.yifeng07.com/' }
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享品牌升级',
-  HERO_TITLE_2: '与策略思维认知',
-  HERO_TITLE_3: 'https://www.yifeng07.com/',
-  HERO_TITLE_4: '目前还能用的免费智能AI接口',
-  HERO_TITLE_5: 'chatGPT，人工智能体验',
-  HERO_TITLE_LINK: 'https://www.yifeng07.com/',
+  HERO_TITLE_1: '分享品牌策略',
+  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_3: 'https://www.yifeng07.com//',
+  HERO_TITLE_4: '人工智能AI导航推荐',
+  HERO_TITLE_5: 'chatGPT，人工智能导航',
+  HERO_TITLE_LINK: 'https://www.aigc.cn/',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '品牌分享', url: '/tag/品牌分享' },
@@ -30,11 +30,11 @@ const CONFIG = {
   INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🤝 专注品牌策略咨询',
+    '🏃 脚踏实地落地派',
+    '🏠 日常工作记录者',
+    '🤖️ 体育运动爱好者',
+    '🧱 广告策划发动机'
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
