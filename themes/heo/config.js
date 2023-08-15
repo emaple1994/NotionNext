@@ -102,7 +102,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://www.notion.so/579cbcfd791c41fd9c44847bb1c77994?pvs=4',
+  SOCIAL_CARD_URL: '@专属群守则 ',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
